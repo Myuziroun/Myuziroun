@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 
 <div align = "center">
 
+---
+
 📕I’m currently learning
 <br>
 
@@ -30,7 +32,6 @@ Here are some ideas to get you started:
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/tritaznt21/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/alif.rajaf/)
-
 
 </div>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
